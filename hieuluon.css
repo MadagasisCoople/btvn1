@@ -1,0 +1,217 @@
+.start{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+    background-image: url(./picture/part1.png);
+    background-size: cover;
+    background-position: center;
+}
+.button1{
+    position: absolute;
+    z-index: 2;
+    width: 151px;
+    height: 40px;
+    background: transparent;
+    border-radius: 100px / 50px;
+    top: 424px;
+    left: 103px;
+}
+.button2{
+    position: absolute;
+    z-index: 2;
+    width: 151px;
+    height: 40px;
+    background:transparent;
+    border-radius: 100px / 50px;
+    top: 424px;
+    left: 255px;
+}
+.food1{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/1.jpg);
+}
+.food2{
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/2.jpg);
+}
+.food3{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/3.jpg);
+}
+.food4{
+    position: absolute;
+    top: 0%;
+    left: 75%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/4.jpg);
+}
+.food5{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/5.jpg);
+}
+.food6{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/6.jpg);
+}
+.food7{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/7.jpg);
+}
+.food8{
+    position: absolute;
+    top: 50%;
+    left: 75%;
+    width: 25%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/8.jpg);
+}
+.signup {
+    z-index: 2;
+    position: absolute;
+    top: 78px;
+    left: 536px;
+    background-color: transparent;
+    width: 75px;
+    height: 18px;
+}
+.howitwork{
+    z-index: 2;
+    position: absolute;
+    top: 76px;
+    left: 706px;
+    height: 19px;
+    background-color: transparent;
+    width: 135px;
+}
+.city{
+    position: absolute;
+    z-index: 3;
+    top: 76px;
+    left: 932px;
+    background-color: transparent;
+    width: 108px;
+}
+.city1{
+    position: absolute;
+    z-index: 2;
+    left: 0%;
+    top: 0%;
+    width: 50%;
+    height: 50%;
+    background-image: url(./picture/berlin.jpg);
+    background-size: cover;
+    color: white;
+    font-size: 200%;
+}
+.city2{
+    position: absolute;
+    z-index: 2;
+    top: 0%;
+    left: 50%; 
+    width: 50%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/lisbon-3.jpg);
+    color: white;
+    font-size: 200%;
+}
+.city3{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 0%; 
+    width: 50%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/london.jpg); 
+    color: white;
+    font-size: 200%;
+}
+.city4{
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%; 
+    width: 50%;
+    height: 50%;
+    background-size: cover;
+    background-image: url(./picture/dalat.jpg); 
+    color: red;
+    font-size: 200%;
+}
+.character{
+    position: absolute;
+    z-index: 2;
+    top: 76px;
+    left: 1135px;
+    background-color: transparent;
+    width: 76px;
+}
+.nv1{
+    position: absolute;
+    z-index: 2;
+    left: 0%;
+    top: 5%;
+    width: 33.33%;
+    height: 95%;
+    background-position: center;
+    background-image: url(./picture/customer-1.jpg);
+    background-size: cover;
+}
+.nv2{
+    position: absolute;
+    z-index: 2;
+    left: 33.33%;
+    top: 5%;
+    width:33.33%;
+    height: 95%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(./picture/customer-2.jpg);
+}
+.nv3{
+    position: absolute;
+    z-index: 2;
+    left: 66.66%;
+    top: 5%;
+    width: 33.33%;
+    height: 95%;
+    background-size: cover;
+    background-position: center;
+    background-image: url(./picture/customer-3.jpg);
+}
